@@ -1,26 +1,6 @@
 # MechaCar_Statistical_Analysis
 
 
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/91852495/161401756-7b8f160b-da31-40d5-8632-3928f50084ae.png" width="520" height="250">
-</p>
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/91852495/161401793-bccd99c1-29fc-4d7a-95cb-60646c8a5e9d.png" width="520" height="250">
-</p>
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/91852495/161401794-eaa91886-2e04-40d4-adf3-1097f2c52601.png" width="520" height="250">
-</p>
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/91852495/161401797-55a6c863-5bc5-4c1d-869a-d9ff1b8387b5.png" width="520" height="250">
-</p>
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/91852495/161401799-a9d0a09d-aab4-49c5-a5b8-13e86997c358.png" width="520" height="250">
-</p>
-
-
-
-
-
 
 ## Linear Regression to Predict MPG
 
@@ -50,7 +30,8 @@ However, if we look at the individual lot variance, we can see that Lot 1 and 2 
 
 <p align="left">
    <img src="https://user-images.githubusercontent.com/91852495/161401793-bccd99c1-29fc-4d7a-95cb-60646c8a5e9d.png" width="520" height="150">
-   
+</p>
+
 ## T-Tests on Suspension Coils
 
 All Manufacturing Lots: 
@@ -73,4 +54,13 @@ Lot 3:
 - The two means are statistically different.
 
 ## Study Design: MechaCar vs Competition
+
+</p>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/91852495/161401794-eaa91886-2e04-40d4-adf3-1097f2c52601.png" width="520" height="250">
+</p>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/91852495/161401797-55a6c863-5bc5-4c1d-869a-d9ff1b8387b5.png" width="520" height="250">
+</p>
+
 
