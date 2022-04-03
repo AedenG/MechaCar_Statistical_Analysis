@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Project Overview
-We have been asked to perform statistical analyzes on MechaCar data to help the AutosRUs manufacturing team.
+We have been asked to perform a statistical analyzes on MechaCar data to help the AutosRUs manufacturing team.
 
 ## Resources
 Data Source: MechaCar_mpg.csv, Suspension_Coil.csv
@@ -30,7 +30,7 @@ Current manufacturing data does meet the design specification for the manufactur
    <img src="https://user-images.githubusercontent.com/91852495/161401799-a9d0a09d-aab4-49c5-a5b8-13e86997c358.png" width="520" height="75">
 </p>
 
-However, if we look at the individual lot variance, we can see that Lot 1 and 2 meet design specifications, but Lot 3 does not (variance is equal to roughly 170).
+However, if we look at the individual lot variance, we can see that Lot 1 and 2 meet design specifications, but Lot 3 does not (variance is equal to 170.29).
 
 <p align="left">
    <img src="https://user-images.githubusercontent.com/91852495/161401793-bccd99c1-29fc-4d7a-95cb-60646c8a5e9d.png" width="520" height="150">
@@ -39,7 +39,7 @@ However, if we look at the individual lot variance, we can see that Lot 1 and 2 
 ## T-Tests on Suspension Coils
 
 All Manufacturing Lots: 
-- The p-value = 0.06 and is above our significance level.
+- The p-value = 0.06 and is above our significance level (0.05).
 - We do not have sufficient evidence to reject the null hypothesis. 
 
 <p align="left">
