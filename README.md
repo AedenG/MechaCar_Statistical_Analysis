@@ -71,13 +71,8 @@ Lot 3:
 
 ## Study Design: MechaCar vs Competition
 
-</p>
-<p align="left">
-   <img src="https://user-images.githubusercontent.com/91852495/161401794-eaa91886-2e04-40d4-adf3-1097f2c52601.png" width="520" height="250">
-</p>
-<p align="left">
-   <img src="https://user-images.githubusercontent.com/91852495/161401797-55a6c863-5bc5-4c1d-869a-d9ff1b8387b5.png" width="520" height="250">
-</p>
+When comparing MechaCar against the competition, safety ratings would be of the utmost importance. Mean safety ratings several manufacturers could be compared. The null hypothesis is that there is no statistical difference between the two safety rating means we are comparing. The alternative hypothesis is that there is a statistical difference between the two safety rating means. We can use a two-sample t-test to compare means. This test would allow us to evaluate the p-value so we can determine if we have sufficient evidence to accept or reject our null hypothesis. To run this test, we would need a dataframe that included safety ratings from multiple car manufacturers. We could group this dataframe by Manufacturer, calculate the mean safety rating per manufacturer, and proceed with our analysis. 
+
 
 
 
