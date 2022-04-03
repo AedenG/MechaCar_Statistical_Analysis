@@ -1,6 +1,10 @@
 # MechaCar_Statistical_Analysis
 
+## Project Overview
+We have been asked to perform statistical analyzes on MechaCar data to help the AutosRUs manufacturing team.
 
+## Resources
+Data Source: MechaCar_mpg.csv, Suspension_Coil.csv
 
 ## Linear Regression to Predict MPG
 
