@@ -38,29 +38,46 @@ All Manufacturing Lots:
 - The p-value = 0.06 and is above our significance level.
 - We do not have sufficient evidence to reject the null hypothesis. 
 
+<p align="left">
+   <img src="https://user-images.githubusercontent.com/91852495/161405559-94df434b-57e9-4033-b3a4-d141fa3c17bc.png" width="520" height="250">
+</p>
+
 Lot 1:
 - The p-value = 1 and is above our significance level.
 - We do not have sufficient evidence to reject the null hypothesis
 - The two means are statistically similar.
+
+<p align="left">
+   <img src="https://user-images.githubusercontent.com/91852495/161405556-0602a583-5806-4797-9b13-f7d537a77c49.png" width="520" height="250">
+</p>
 
 Lot 2:
 - The p-value = 0.61 and is above our significance level.
 - We do not have sufficient evidence to reject the null hypothesis
 - The two means are statistically similar.
 
+<p align="left">
+   <img src="https://user-images.githubusercontent.com/91852495/161405557-c533938d-f651-4abe-93c4-442d49c47f1c.png" width="520" height="250">
+</p>
+
 Lot 3:
 - The p-value = 0.04 and is below our significance level.
 - We have sufficient evidence to reject null hypothesis.
 - The two means are statistically different.
 
+<p align="left">
+   <img src="https://user-images.githubusercontent.com/91852495/161405558-a0359155-2bcd-4411-8d3a-14fb17fbc6be.png" width="520" height="250">
+</p>
+
 ## Study Design: MechaCar vs Competition
 
 </p>
-<p align="center">
+<p align="left">
    <img src="https://user-images.githubusercontent.com/91852495/161401794-eaa91886-2e04-40d4-adf3-1097f2c52601.png" width="520" height="250">
 </p>
-<p align="center">
+<p align="left">
    <img src="https://user-images.githubusercontent.com/91852495/161401797-55a6c863-5bc5-4c1d-869a-d9ff1b8387b5.png" width="520" height="250">
 </p>
+
 
 
