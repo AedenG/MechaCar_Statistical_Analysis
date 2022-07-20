@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Project Overview
-We have been asked to perform a statistical analyzes on MechaCar data to help the AutosRUs manufacturing team.
+We have been asked to perform a statistical analysis on MechaCar data to help the AutosRUs manufacturing team.
 
 ## Resources
 Data Source: MechaCar_mpg.csv, Suspension_Coil.csv
